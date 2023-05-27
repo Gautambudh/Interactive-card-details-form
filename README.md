@@ -30,9 +30,9 @@ Users should be able to:
 - See hover, active, and focus states for interactive elements on the page
 
 ### Screenshot
+![active-states](https://github.com/Gautambudh/Interactive-card-details-form/assets/112330342/65abdf19-abbd-4a1b-b690-8a92ad06dbb8)
 
-![desktop view](./src/assets/design/active-states.jpg)
-![mobile view](./src/assets/design/mobile-design.jpg)
+![complete-state-desktop](https://github.com/Gautambudh/Interactive-card-details-form/assets/112330342/06f9898f-074e-4796-bf2a-c9000dcc9319)
 
 ### Links
 
